@@ -1,6 +1,4 @@
-
 # MODULES :
-
 
 import math, os
 import tkinter as tk
@@ -8,10 +6,8 @@ import customtkinter as ctk # type: ignore
 from tkinter import ttk
 
 
-
 # ===================================================================================================================== # 
 # ===================================================================================================================== # 
-
 
 
 # CLASSES AND FUNCTIONS :
@@ -283,7 +279,6 @@ class CursorButton(ttk.Button):
 
 # CALCULATOR STRUCTURE :
 
-
  # Root Structure:-
 
 class RootStructure(tk.Tk, UIFunctions, ModeSwitchFunctions):
@@ -490,13 +485,14 @@ class TopButtonFrame(tk.Frame, UIFunctions, ModeSwitchFunctions):
 
 
 
+
 # ===================================================================================================================== # 
 # ===================================================================================================================== # 
+
 
 
 
 # MAIN :
-
 
 class Main():
     
@@ -516,6 +512,7 @@ if __name__ == '__main__':
 
 
 
+
 # X--------X----------X----------X----------X----------X----------X----------X----------X----------X----------X--------X #
 #          X          X          X          X          X          X          X          X          X          X        X #
 # X--------X----------X----------X----------X----------X----------X----------X----------X----------X----------X--------X # 
@@ -524,4 +521,3 @@ if __name__ == '__main__':
                                                                                                         #    School: Bala Vidya Mandir Sr. Sec School
                                                                                                         #    Class:  XII A (2025-26)
                                                                                                         #    Batch:  BVM 26'
-# She don' wanna strip no more don' wanna hit that pole. hHhhAAAAAAA
